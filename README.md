@@ -1,7 +1,7 @@
 # Chrome-Dino
 My first programming side project!
 
-My first Recreation of Google Chrome's Dino Run game using Turing programming language.
+A recreation of Google Chrome's Dino Run game using Turing programming language.
 
 To play the original game (Created by Google),
 1. Enter `chrome://dino/` in the web address on a Google Chrome browser
